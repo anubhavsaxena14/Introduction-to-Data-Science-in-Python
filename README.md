@@ -1,5 +1,8 @@
 # Introduction-to-Data-Science-in-Python
 
+Objective of Course:
+Take tabular data, clean it,  manipulate it, and run basic inferential statistical analyses.
+
 Week 1:
 
 Recognize the meaning of the term "Data Science".
