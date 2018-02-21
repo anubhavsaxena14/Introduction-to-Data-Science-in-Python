@@ -1,7 +1,7 @@
 # Introduction-to-Data-Science-in-Python
 
 Course Objective:
-Take data in tabular form, clean it,  manipulate it, and run basic inferential statistical analyses.
+Take data in tabular form, clean it, manipulate it, and run basic inferential statistical analyses.
 
 Week 1:
 
